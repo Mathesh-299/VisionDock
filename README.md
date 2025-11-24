@@ -55,7 +55,7 @@ cd frontend
 npm install
 npm start
 ```
-backend on `http://localhost:9000`.
+backend on `https://visiondock.onrender.com`.
 
 ---
 
