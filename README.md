@@ -101,8 +101,9 @@ backend on `http://localhost:9000`.
 ---
 
 ## Screenshots
-
+### Landing Page
 ![alt text](image.png)
+### Recent History
 ![alt text](image-1.png)
 ---
 
